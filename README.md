@@ -9,7 +9,6 @@ The sub-repositories include examples of the following:
   <li>One to One uni-directional mapping</li>
   <li>Many to Many mapping</li>
   <li>Eager and Lazy loading</li>
-  <li></li>
 </ul>
 
 # Motivation
